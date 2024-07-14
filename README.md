@@ -1,3 +1,8 @@
+live link ==> https://main--sv888-notenest.netlify.app/
+demo account ==> 
+                gmail -> demo@gmail.com
+                password -> 123
+
 ## NoteNest
 
 NoteNest is a versatile note-taking application designed to empower users with robust CRUD (Create, Read, Update, Delete) capabilities for managing their notes effectively. It offers a seamless and intuitive experience, ensuring users can organize and retrieve their notes effortlessly.
