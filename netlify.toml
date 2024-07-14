@@ -1,5 +1,5 @@
 [build]
-  base = "/"
+  base = "/notes-app"
   publish = "build"
   command = "npm run build"
 
