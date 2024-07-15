@@ -6,6 +6,8 @@ demo account ==>
                 
                 password -> 123
 
+                ** please try to refresh 2-3 times and wait until the login succeeds (if there are any problems)
+
 ## NoteNest
 
 NoteNest is a versatile note-taking application designed to empower users with robust CRUD (Create, Read, Update, Delete) capabilities for managing their notes effectively. It offers a seamless and intuitive experience, ensuring users can organize and retrieve their notes effortlessly.
